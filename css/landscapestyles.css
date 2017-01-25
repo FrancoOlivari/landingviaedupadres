@@ -1,0 +1,581 @@
+.invisibleres{
+    display: none;
+}
+.visibleres{
+    display: inline;
+}
+header {
+  background: url("../svgs/head-viaedu00.jpg") no-repeat center center;
+  background-size: 250%;
+  color: white;
+}
+#h1header{
+	text-align: center;
+	font-size: 60px;
+	margin-top: -30%;
+	padding-bottom: 15%;
+}
+nav{
+	display: table;
+	margin: auto;
+}
+nav ul{
+	background-color: none;
+	
+}
+#auxnav{
+	width: 100%;
+	text-align: center;
+}
+nav ul li{
+	float: left;
+	display: inline;
+}
+#logoviaedusvgres{
+	width: 17%;
+	display: inline;
+	margin-top: 5%;
+	margin: auto;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+ 	text-decoration: none;
+	background-color: transparent;
+}
+#formatolinksnav{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+#auxrestop{
+	text-align: center;
+}
+#espacionav{
+	margin-top: 0.8%;
+	float: none;
+	list-style: none;
+	padding-right: 0;
+}
+#contenedorblanco{
+	background-color: #FFF;
+	padding-bottom: 7%;
+	margin-top: -30%;
+	margin-bottom: 5%;
+	text-align: center;
+	width: 95%;
+	margin-left: 2.5%;
+}
+#pcontenedor1{
+	color: rgb(86, 66, 115);
+	font-size: 24px;
+	padding: 5% 0 2%;
+	line-height: 1.8;
+	font-weight: 600;
+}
+#span1cont1{
+	font-weight: 700;
+}
+#span2cont1{
+	color:rgb(255,75,139);
+}
+#botonhacertest{
+	padding: 1% 5%;
+	background-color:rgb(255,75,139);
+	border-radius: 8px;
+	font-size: 26px;
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+}
+#contenedorblanco2{
+	background-color: #FFF;
+	padding-bottom: 7%;
+	margin-top: -40%;
+	text-align: center;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-bottom: 15%;
+}
+#contenedorblanco23{
+	background-color: #FFF;
+	padding-bottom: 7%;
+	margin-top: -45%;
+	text-align: center;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-bottom: -8%;
+}
+#apptestsvg{
+	float: none;
+	width: 30%;
+	margin: auto;
+}
+.h2cont2{
+	font-size: 40px;
+	text-align: center;
+	padding-left: 0;
+	padding-top: 8%;
+	padding-bottom: 3%;
+	font-weight: 600;
+	color: rgb(86, 66, 115);
+}
+#auxbotonhacertest1{
+	padding-top: 2%;
+	width: 83%;
+}
+#contenedorblanco3{
+	background: url("../svgs/img-cel.jpg") no-repeat center center;
+	padding-bottom: 5%;
+	margin-top: -55%;
+	text-align: left;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-bottom: 10%;
+}
+#contenedorblanco3 h2{
+	padding: 15% 0 12%;
+	padding-left: 0;
+	color: white;
+	font-weight: 700;
+	font-size: 60px;
+	text-align: center;
+}
+#contenedorblanco4{
+	background-color: #FFF;
+	padding-bottom: 5%;
+	margin-top: -50%;
+	text-align: center;
+	padding-top: 5%;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-bottom: 5%;
+}
+#contenedorwhy{
+	width: 100%;
+	float: none;
+}
+#iconwhy{
+	width: 15%;
+}
+#iconowhy{
+	width: 20%;
+}
+#tamañowhy{
+	font-size: 15px;
+	color: rgb(153, 153, 153);
+	font-family: 'Ubuntu';
+}
+#contenedorwhy #fuenterosa{
+	font-weight: 600;
+}
+#iconomas{
+	width: 30%;
+}
+#pantallas{
+	margin: 2% 0;
+	padding-bottom: 2%;
+	text-align: center;
+}
+#testimonio{
+	width: 85%;
+	border: solid 2px rgb(240, 240, 240);
+	border-radius: 10px;
+	padding: 2.5% 0;
+	text-align: left;
+	margin: auto;
+}
+#testimonio p{
+	padding-left: 17.5%;
+	padding-top: 2%;
+}
+#imagentestimonio{
+	width: 25%;
+	float: left;
+	margin-left: -12.5%;
+}
+#quotessvg{
+	width: 15%;
+	float: right;
+	margin-right: 3%;
+}
+#nombretesti{
+	color: #6461ff;
+	font-weight: 600;
+}
+#escuelatesti{
+	color: #fa4b8b;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 1;
+}
+#textotesti{
+	color: rgb(175, 175, 175);
+	font-weight: 500;
+	font-size: 20px;
+	font-family: 'Ubuntu';
+}
+#testimonio p{
+	width: 90%;
+}
+#espacioextra{
+	height: 20px;
+}
+#contenedorblanco5{
+	background-color: #FFF;
+	padding-bottom: 5%;
+	margin-top: -32%;
+	text-align: center;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-bottom: 15%;
+}
+#bgrosa{
+	margin-top: -48%;
+	background-color: #fa4b8b;
+	box-sizing: border-box;
+}
+#elegituver{
+	text-align: center;
+	margin-top: -10%;
+	padding-top: 2%;
+	padding-bottom: 4%;
+	font-size: 60px;
+	font-weight: 600;
+	color: white;
+}
+#contenedorrosa1{
+	margin-top: 10%;
+	background-color: #fa4b8b;
+}
+#contenedorinrosa{
+	background-color: #FFF;
+	width: 95%;
+	float: none;
+	border-radius: 10px;
+	text-align: center;
+	padding: 3% 0 7%;
+	margin-top: 2%;
+	margin-left: 2.5%;
+	margin-bottom: 5%;
+}
+#contenedorinrosa2{
+	background-color: #FFF;
+	width: 95%;
+	float: none;
+	border-radius: 10px;
+	text-align: center;
+	padding: 3% 0 7%;
+	margin-left: 2.5%;
+	margin-bottom: 5%;
+}
+#contenedorinrosa3{
+	background-color: #FFF;
+	width: 95%;
+	float: none;
+	border-radius: 10px;
+	text-align: center;
+	padding: 3% 0 7%;
+	margin-top: 2%;
+	margin-left: 2.5%;
+	margin-bottom: 5%;
+}
+#contenedorinrosa2 p{
+	padding: 5% 0;
+}
+.espacioextra2{
+	margin-right: 5%;
+}
+#promo1{
+	width: 65%;
+}
+#promo2{
+	margin-top: 3%;
+	width: 60%;
+}
+#txtamarillo{
+	font-size: 54px;
+	color: #ffc352;
+}
+#txtrosa{
+	font-size: 14px;
+	font-weight: 500;
+	color: #fa4b8b;
+}
+#txtazul{
+	font-size: 26px;
+	font-weight: 600;
+	color: #6461ff;
+}
+#txtgris{
+	font-size: 14px;
+	font-family: 'Ubuntu';
+	color: rgb(153, 153, 153);
+	line-height: 1;
+}
+#primerp{
+	padding: 0 0 4%;
+}
+#botonhacertest2{
+	padding: 2% 15%;
+	background-color:#ffc352;
+	border-radius: 8px;
+	font-size: 26px;
+	text-decoration: none;
+	color: rgb(86, 66, 115);
+	font-weight: 4	00;
+}
+#h2confianza{
+	color: rgb(179, 179, 179);
+	font-weight: 600;
+	padding-top: 8%;
+	font-size: 40px;
+}
+#logosconfianza{
+	padding-top: 3.5%;
+	text-align: center;
+}
+.auxconfianza{
+	margin-right: 10%;
+}
+#logoconfianza{
+	margin-left: 10%;
+	width: 70%;
+}
+#logoconfianzad{
+	margin-top: 5%;
+	width: 65%;
+}
+#bggrisfinal{
+	background-color: #E6E6E6;
+	box-sizing: border-box;
+	margin-bottom: 0%;
+	padding-bottom: 10%;
+	padding-top: 0;
+}
+#footerviaedu{
+	margin-top: 1%;
+	margin: auto;
+	width: 15%;
+}
+#footerlinks{
+	font-size: 18px;
+	font-weight: 600;
+}
+#twviaedu{
+	width: 35%;
+	margin-right: 2%;
+}
+#fbviaedu{
+	width: 35%;
+	margin-left: 2%;
+}
+#espaciofooter1{
+	padding-top: 2%;
+}
+#espaciofooter2{
+	padding-bottom: 2%;
+}
+footer{
+	background-color: rgb(51, 51, 51);
+}
+footer ul{
+	padding: 0;
+}
+footer ul li{
+	margin-left: 0;
+	margin-right: 0;
+}
+.lista{
+	list-style: none;
+	padding: 5% 0;
+	margin: 0;
+}
+.lista > li {
+  display: inherit;
+  padding: 1%;
+  padding-right: 0;
+  padding-left: 0;
+}
+#carruresph3{
+	font-size: 20px;
+}
+#tabresp1{
+	width: 50%;
+}
+#espacioextracarruresp{
+	padding-top: 2%;
+}
+#botonhacertestcarrures{
+	padding: 1% 5%;
+	background-color:rgb(255,75,139);
+	border-radius: 8px;
+	font-size: 26px;
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+	margin-top: 5%;
+}
+#contenedorvioleta{
+	margin-top: -40%;
+	width: 95%;
+	margin-left: 2.5%;
+	padding-top: 2%;
+}
+#pcontenedorvioleta{
+	color: #FFF;
+	font-size: 20px;
+	padding: 5% 0 10%;
+	line-height: 1.5;
+	font-weight: 400;
+	letter-spacing: 1.2px;
+	text-align: center;
+}
+#pinkquote{
+	margin: auto;
+	width: 20%;
+	float: none;
+	margin-top: 0;
+	margin-left: 40%;
+	margin-right: 3%;
+}
+#pinkquotesvg{
+	margin-top: 20%;
+	width: 100%
+}
+#txtrosa2{
+	font-size: 18px;
+	font-weight: 500;
+	color: #fa4b8b;
+	width: 100%;
+	margin-left: 0;
+	text-align: left;
+	margin-top: 2%;
+	padding: 0 5%;
+}
+#txtgris2{
+	font-size: 18px;
+	color: rgb(153, 153, 153);
+	width: 100%;
+	margin-left: 0;
+	text-align: left;
+	font-weight: 500;
+	padding: 0 5%;
+}
+#contenedorresultados{
+	width: 100%;
+	float: none;
+	text-align: center;
+}
+#contenedorblancoconfianza{
+	background-color: #FFF;
+	padding-bottom: 7%;
+	margin-top: -18%;
+	text-align: center;
+	width: 95%;
+	margin-left: 2.5%;
+	margin-bottom: 0;
+}
+#contenedorblancofinal{
+	background-color: #FFF;
+	padding-bottom: 5%;
+	width: 95%;
+	margin-left: 2.5%;
+	box-sizing: border-box;
+	margin-top: -10%;
+	text-align: left;
+	min-height: 550px;
+	max-height: 8000px;
+}
+/* FORMATO ACORDEON */
+#pills{
+	float: none;
+	margin-left: 0%;
+}
+#pills .accordion {
+    margin-top: 20px;
+}
+
+#pills .accordion p {
+    margin: 0;
+    padding: 0;
+}
+
+#pills .accordion-toggle {
+    width: 100%;
+    margin-bottom: 0px;
+    padding: 10px;
+    background: rgb(240, 240, 250);
+    cursor: pointer;
+    -moz-border-radius-topleft: 4px;
+	-moz-border-radius-topright: 4px;
+    -moz-border-radius-bottomright: 4px;
+    -moz-border-radius-bottomleft: 4px;
+    border-color: transparent;
+    -webkit-border-top-left-radius: 4px;
+    -webkit-border-top-right-radius: 4px;
+    -webkit-border-bottom-right-radius: 4px;
+    -webkit-border-bottom-left-radius: 4px;
+    margin-top: 2%;
+    color: rgb(86, 66, 115);
+    font-family: 'Dosis';
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+}
+
+#pills .accordion-toggle:hover,
+#pills .accordion-toggle:active,
+#pills .accordion-toggle:focus {
+    background: rgb(100, 97, 255);
+    color: white;
+    width: 100%;
+}
+
+#pills .active {
+    background: rgb(100, 97, 255);
+    color: white;
+    border-color: rgb(100, 97, 255);
+    -moz-border-radius-topleft: 4px;
+	-moz-border-radius-topright: 4px;
+    -moz-border-radius-bottomright: 0;
+    -moz-border-radius-bottomleft: 0;
+    -webkit-border-top-left-radius: 4px;
+    -webkit-border-top-right-radius: 4px;
+    -webkit-border-bottom-right-radius: 0;
+    -webkit-border-bottom-left-radius: 0;
+}
+
+#pills .toggle-title a {
+    color: #111;
+}
+
+#pills .accordion-content {
+    padding-bottom: 0;
+    width: 100%;
+    border: solid 2px #000;
+    -moz-border-radius-topleft: 0;
+	-moz-border-radius-topright: 0;
+    -moz-border-radius-bottomright: 4px;
+    -moz-border-radius-bottomleft: 4px;
+    border-color: rgb(100, 97, 255);
+    -webkit-border-top-left-radius: 0;
+    -webkit-border-top-right-radius: 0;
+    -webkit-border-bottom-right-radius: 4px;
+    -webkit-border-bottom-left-radius: 4px;
+   	margin-bottom: 2%;
+   	display: none;
+}
+#pills .accordion-content p{
+	font-family: 'Ubuntu';
+   	font-size: 14px;
+   	margin: 3%;
+   	font-weight: 400;
+   	letter-spacing: 0.7px;
+   	color: rgb(153, 153, 153);
+}
+/* FIN FORMATO ACORDEON */
+#faqsvg{
+	float: none;
+	width: 26%;
+	margin: auto;
+}
